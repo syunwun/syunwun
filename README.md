@@ -1,5 +1,4 @@
 - Hi, I’m syunwun@Bioinformatics
-- I’m interested in bioinformatics
 - I’m currently learning python@binfo
 
 <!---
